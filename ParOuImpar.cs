@@ -70,6 +70,6 @@ public class Program
 			Console.WriteLine("Você ganhou!");
 		}
 		else
-			Console.WriteLine("Você perdeu");
+			Console.WriteLine("Você perdeu"); funcionou?
 	}
 }
